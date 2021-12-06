@@ -7,5 +7,5 @@ def fibo(n):
 
   return fibo(n-1) + fibo(n-2)
 
-res = fibo(8)
+res = fibo(7)
 print(res)

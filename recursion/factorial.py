@@ -8,6 +8,6 @@ def factorial(n):
   return factorial(n-1) * n
 
 
-res = factorial(5)
+res = factorial(4)
 
 print(res)
